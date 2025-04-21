@@ -16,10 +16,3 @@ This Team project contains data, analysis, and visualizations of World Cup tourn
 
 ## Acknolowdges
 This Team project is part of the DEPI Graduation Project by CAI1_DAT2_G3e
-
-## Team Members
-Kerelos Reda
-Michael Alfons
-Menna Mohamed 
-Naglaa Fathy
-Taghred Attia
